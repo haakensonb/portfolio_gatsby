@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Navbar from "../components/navbar"
 import Header from "../components/header"
 import Project from "../components/project"
 
@@ -58,10 +59,11 @@ export default ({data}) => {
 
   return (
     <div>
+      <Navbar></Navbar>
       <Header></Header>
       <div className="section">
         <div className="container">
-          <h3 className="title is-3 has-text-centered">Projects</h3>
+          <h3 id="projects" className="title is-3 has-text-centered">Projects</h3>
           {projects}
         </div>
       </div>
