@@ -72,7 +72,7 @@ export default ({data}) => {
 }
 
 export const query = graphql`
-  query projectInfoQuery {
+  query MyQuery {
     allProjectsInfoJson {
       nodes {
         id

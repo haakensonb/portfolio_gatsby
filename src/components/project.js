@@ -17,7 +17,7 @@ const project = props => {
         <a href={props.sourceLink} className="card-footer-item">View Source</a>
         {/* if a demo link address has been given then render the hyperlink*/}
         {
-          props.demoLink !== null
+          props.demoLink !== "" 
             ? <a href={props.demoLink} className="card-footer-item">View Demo</a>
             : null
         }

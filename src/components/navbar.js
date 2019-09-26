@@ -28,7 +28,7 @@ class Navbar extends React.Component {
                     </a>
                 </div>
 
-                <div id="navbarBasic" class={`navbar-menu ${this.state.isActive ? "is-active" : ""}`}>
+                <div id="navbarBasic" className={`navbar-menu ${this.state.isActive ? "is-active" : ""}`}>
                     <div className="navbar-end">
                         {/* maybe don't need a link for projects since they are on the index page */}
                         {/* <Link to="/" className="navbar-item">Projects</Link> */}
