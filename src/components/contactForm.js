@@ -10,21 +10,21 @@ const ContactForm = () => {
       <div className="field">
         <label className="label">Name</label>
         <div className="control">
-          <input className="input" type="text" placeholder="Your name"></input>
+          <input name="name" className="input" type="text" placeholder="Your name"></input>
         </div>
       </div>
 
       <div className="field">
         <label className="label">Email</label>
         <div className="control">
-          <input className="input" type="email" placeholder="Your email"></input>
+          <input name="email" className="input" type="email" placeholder="Your email"></input>
         </div>
       </div>
 
       <div className="field">
         <label className="label">Message</label>
         <div className="control">
-          <textarea className="textarea" placeholder="Your message"></textarea>
+          <textarea name="message" className="textarea" placeholder="Your message"></textarea>
         </div>
       </div>
 
