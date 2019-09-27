@@ -4,7 +4,7 @@ const ContactForm = () => {
   return (
     <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/success">
       <p className="hidden">
-        <label>Don't fill this out if you are human: <input name="bot-field" /></label>
+        <label>Don't fill this out if you are human: <input  type="hidden" name="bot-field" /></label>
       </p>
 
       <div className="field">
