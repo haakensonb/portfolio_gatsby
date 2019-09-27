@@ -1,7 +1,7 @@
 [
     {
         "name": "Habit Tracker",
-        "description": "This project was built outside of class and is inspired by a habit tracking technique generally known as the “X Effect”. The idea behind this technique is that a person should mark a large “X” on their calendar for everyday that they successfully complete a certain task. This provides visual reinforcement and encourages the person not to break a consecutive streak. After seven weeks of doing so a person is expected to successfully have formed a habit. The goal of this project was to create a web application version of this habit tracker using Python for the backend and Javascript for the frontend. This project also makes use of JSON web tokens for authentication purposes. The project is ongoing and the code can be viewed at",
+        "description": "This project was built outside of class and is inspired by a habit tracking technique generally known as the “X Effect”. The idea behind this technique is that a person should mark a large “X” on their calendar for everyday that they successfully complete a certain task. This provides visual reinforcement and encourages the person not to break a consecutive streak. After seven weeks of doing so a person is expected to successfully have formed a habit. The goal of this project was to create a web application version of this habit tracker using Python for the backend and Javascript for the frontend. This project also makes use of JSON web tokens for authentication purposes.",
         "sourceLink": "https://github.com/haakensonb/habit_tracker",
         "demoLink": ""
     },
