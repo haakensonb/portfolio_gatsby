@@ -34,6 +34,7 @@ class Navbar extends React.Component {
                         {/* <Link to="/" className="navbar-item">Projects</Link> */}
                         {/* coming soon */}
                         {/* <a href="#" className="navbar-item">Blog</a> */}
+                        <Link to="/publications" className="navbar-item">Publications</Link>
                         <Link to="/contact" className="navbar-item">Contact</Link>
                     </div>
                 </div>
