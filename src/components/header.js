@@ -7,9 +7,9 @@ const Header = () => {
         <div className="container has-text-centered">
           <h1 className="title">Brandon Haakenson</h1>
           <h2 className="subtitle">
-            Junior majoring in Computer Science at IUPUI
+            Senior majoring in Computer Science at IUPUI
             <br/>
-            My <a href="https://github.com/haakensonb" target="_blank">Github</a>
+            My <a href="https://github.com/haakensonb" rel="noopener noreferrer" target="_blank">Github</a>
           </h2>
         </div>
       </div>
