@@ -1,5 +1,17 @@
 [
     {
+        "name": "Atallah/ACP",
+        "description": "This project contains the code that my team members and I wrote for our publication in TPS 2019 (see publications page for more details). Using Python and ideas from related works we were able to create a program implementing a cryptography-based hierarchical access control scheme.",
+        "sourceLink": "https://github.com/phillity/atallah_acp",
+        "demoLink": ""
+    },
+    {
+        "name": "Secure Digital Provenance",
+        "description": "This program is a prototype implementation of a secure digital provenance scheme outlined by Rangwala et al.(2014). This scheme uses a chain of cryptographic hashes in order to provide an unforgeable chain of custody. In this way, all actions performed on a digital object are recorded and verifiable through an audit. Reference: Rangwala, M., Liang, Z., Peng, W., Zou, X., & Li, F. (2014). A Mutual Agreement Signature Scheme for Secure Data Provenance.",
+        "sourceLink": "https://github.com/haakensonb/provenance",
+        "demoLink": ""
+    },
+    {
         "name": "Habit Tracker",
         "description": "This project was built outside of class and is inspired by a habit tracking technique generally known as the “X Effect”. The idea behind this technique is that a person should mark a large “X” on their calendar for everyday that they successfully complete a certain task. This provides visual reinforcement and encourages the person not to break a consecutive streak. After seven weeks of doing so a person is expected to successfully have formed a habit. The goal of this project was to create a web application version of this habit tracker using Python for the backend and Javascript for the frontend. This project also makes use of JSON web tokens for authentication purposes.",
         "sourceLink": "https://github.com/haakensonb/habit_tracker",
