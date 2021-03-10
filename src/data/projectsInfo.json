@@ -1,5 +1,11 @@
 [
     {
+        "name": "Interactive IP Address Heatmap",
+        "description": "The goal of this project was to take a dataset of IPv4 address locations and plot them as an interactive heatmap. Made using React, Django, PostGIS, Leaflet, and deployed on AWS using Docker containers.",
+        "sourceLink": "https://github.com/haakensonb/interactive_ip_heatmap",
+        "demoLink": "http://ec2-3-142-142-166.us-east-2.compute.amazonaws.com/"
+    },
+    {
         "name": "Atallah/ACP",
         "description": "This project contains the code that my team members and I wrote for our publication in TPS 2019 (see publications page for more details). Using Python and ideas from related works we were able to create a program implementing a cryptography-based hierarchical access control scheme.",
         "sourceLink": "https://github.com/phillity/atallah_acp",
