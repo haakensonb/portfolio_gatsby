@@ -7,11 +7,11 @@
         "link": "https://ieeexplore.ieee.org/document/9014351"
     },
     {
-        "title": "(Accepted) User-Friendly Design of Cryptographically-Enforced Hierarchical Role-based Access Control Models",
+        "title": "User-Friendly Design of Cryptographically-Enforced Hierarchical Role-based Access Control Models",
         "authors": "X. Yu, B. Haakenson, T. Phillips and X. Zou",
         "published": "IEEE Conference on Computer Communications and Networks(ICCCN ’20)",
         "abstract": "Data access control is a critical issue for any organization generating, recording or leveraging sensitive information. The popular Role-based Access Control (RBAC) model is well-suited for large organizations with various groups of personnel, each needing their own set of data access privileges. Unfortunately, the traditional RBAC model does not involve the use of cryptographic keys needed to enforce access control policies and protect data privacy. Cryptography-based Hierarchical Access Control (CHAC) models, on the other hand, have been proposed to facilitate RBAC models and directly enforce data privacy and access controls through the use of key management schemes. Though CHAC models and efficient key management schemes can support large and dynamic organizations, they are difficult to design and maintain without intimate knowledge of symmetric encryption, key management and hierarchical access control models. Therefore, in this paper we propose an efficient algorithm which automatically generates a fine-grained CHAC model based on the input of a highly user-friendly representation of access control policies. The generated CHAC model, the dual-level key management (DLKM) scheme, leverages the collusion-resistant Access Control Polynomial (ACP) and Atallah’s Efficient Key Management scheme in order to provide privacy at both the data and user levels. As a result, the proposed model generation algorithm serves to democratize the use of CHAC. We analyze each component of our proposed system and evaluate the resulting performance of the user-friendly CHAC model generation algorithm, as well as the DLKM model itself, along several dimensions.",
-        "link": ""
+        "link": "https://ieeexplore.ieee.org/document/9209656"
     }
 
 ]
