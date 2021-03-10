@@ -15,6 +15,7 @@
   "dependencies": {
     "bulma": "^0.7.5",
     "gatsby": "^2.15.26",
+    "gatsby-cli": "^3.0.0",
     "gatsby-plugin-sass": "^2.1.15",
     "gatsby-source-filesystem": "^2.1.26",
     "gatsby-transformer-json": "^2.2.9",
