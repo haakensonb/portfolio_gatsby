@@ -8,7 +8,8 @@ module.exports = {
   /* Your site config here */
   plugins: [
     `gatsby-plugin-sass`,
-    `gatsby-transformer-json`, 
+    `gatsby-transformer-json`,
+    `gatsby-plugin-react-helmet`, 
     {
       resolve: `gatsby-source-filesystem`,
         options: {

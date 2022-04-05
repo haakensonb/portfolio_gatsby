@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Navbar from "../components/navbar"
 import Header from "../components/header"
 import Project from "../components/project"
+import Metadata from "../components/metadata"
 
 export default ({data}) => {
   // Get data from query
@@ -59,6 +60,7 @@ export default ({data}) => {
 
   return (
     <div>
+      <Metadata></Metadata>
       <Navbar></Navbar>
       <Header></Header>
       <div className="section">

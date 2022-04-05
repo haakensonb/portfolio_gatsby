@@ -16,12 +16,14 @@
     "bulma": "^0.7.5",
     "gatsby": "^2.15.26",
     "gatsby-cli": "^4.11.1",
+    "gatsby-plugin-react-helmet": "^5.11.0",
     "gatsby-plugin-sass": "^5.11.1",
     "gatsby-source-filesystem": "^2.1.26",
     "gatsby-transformer-json": "^2.2.9",
     "node-sass": "^7.0.1",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
