@@ -9,7 +9,7 @@ const Header = () => {
           <h2 className="subtitle">
             Software Developer
             <br/>
-            <a href="https://github.com/haakensonb" rel="noopener noreferrer" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/brandon-haakenson-a8156a190/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+            <a href="https://github.com/haakensonb" rel="noopener noreferrer" target="_blank">Github</a> | <a href="https://www.linkedin.com/in/brandon-haakenson/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
           </h2>
         </div>
       </div>
