@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "bulma": "^0.7.5",
-    "gatsby": "^2.15.26",
+    "gatsby": "^5.5.0",
     "gatsby-cli": "^4.11.1",
     "gatsby-plugin-react-helmet": "^5.11.0",
     "gatsby-plugin-sass": "^5.11.1",
